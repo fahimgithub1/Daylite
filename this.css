@@ -20,7 +20,7 @@ body{
 }
 
 .nav-link{ 
-    color: rgb(188, 196, 202);
+    color: rgb(66, 190, 9);
 }
 
 .nav_item_border{
@@ -75,18 +75,26 @@ body{
 
 .our-peocess-img > img{
     border-radius: 50%;
+    height: 60px;
     width: 70%;
 }
 
 /* OUR LATASE WORK */
 
+.oure-work-img{
+    width: 90%;
+}
 .oure-work-img > img{
     width:  100%;
+    height: 200px;
 }
-
+.oure-work-text{
+    height: 100px;
+}
 .oure-work-img > div{
     background-color: rgb(190, 176, 154);
 }
+
 
 /* RACENT and ABOUT */
 .img5{
